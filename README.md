@@ -10,6 +10,7 @@ Acesso ao laboratório: https://tryhackme.com/room/introtooffensivesecurity
 **1º — Abra um terminal**
 
 Podemos interagir com um computador sem usar uma interface gráfica de usuário usando um terminal, geralmente conhecido como linha de comando. Usando o ícone Terminal no sistema, abra o terminal:
+
 ![image](https://user-images.githubusercontent.com/98756562/191946246-a4aaef3c-d036-426c-b857-4ec6e770cd9a.png)
 Ícone do terminal do Kali Linux
 
