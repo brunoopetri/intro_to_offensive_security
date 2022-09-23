@@ -1,5 +1,7 @@
 # Introdução à segurança ofensiva | TryHackMe
 
+É cada vez mais frequente o número de ataques e ameaças e, devido a isso, manter aplicações seguras na Web é uma tarefa que está ficando cada vez mais difícil. Atualmente, no mercado, temos o Red team (equipe vermelha), que tem como foco os ataques, ou seja, é uma equipe que trabalha na área de Segurança Ofensiva com o objetivo de validação de segurança das aplicações, infraestrutura, serviços e sistemas através de testes de invasão, ou Pentest (Penetration Test).
+
 ![image](https://user-images.githubusercontent.com/98756562/191946070-feb61a9b-973e-4148-83e1-b8a792163a2d.png)
 
 
